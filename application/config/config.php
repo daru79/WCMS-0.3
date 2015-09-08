@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://wcms03.silesian-code.pl/';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
